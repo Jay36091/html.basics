@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>HTML Cheat Sheet</title>
+   </head>
+  <body>
+      <!~~ Headings ~~>
+      <h1>Heading One</h1>
+      <h2>Heading Two</h2>
+      <h3>Heading Three</h3>
+      <h4>Heading Four</h4>
+      <h5>Heading Five</h5>
+      <h6>Heading Six</h6>
+     <!~~ Paragragh ~~>
+     <p>
+"<strong>Humour or humor is the tendency of experiences to provoke laughter and provide amusement.</strong> The term derives from the humoral medicine of the ancient Greeks, which taught that the balance of fluids in the human body, known as humours, controlled human health and emotion. <em>Wikipedia</em>"
+    </p>
+
+     <p>
+"Humour or humor is the tendency of experiences to provoke laughter and provide amusement. The term derives from the humoral medicine of the ancient Greeks, which taught that the balance of fluids in the human body, known as humours, controlled human health and emotion.<a href="http://google.com" target="_blank"> Wikipedia</a>"
+    </p>
+      
+  </body>
+</html>
